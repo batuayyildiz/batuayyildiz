@@ -7,7 +7,7 @@ Salesforce Developer
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [batuayyildiz@gmail.com](mailto:batuayyildiz@gmail.com)
 * 🧠  I'm learning Salesforce
-* 🤝  I'm open to collaborating on building a Salesforce projects both in Administrative & Developing side
+* 🤝  I'm open to collaborating on building Salesforce projects both in Administrative & Developing side
 
 ### Skills
 
